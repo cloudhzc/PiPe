@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PiPe (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PiPe (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
